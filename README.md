@@ -1,3 +1,3 @@
 # Laravel12-SimpleDoctorAppointment
 
-Learning Livewire Laravel12 Starterkit for make simple doctor appointment
+Learning Laravel12 with livewire for make simple doctor appointment
